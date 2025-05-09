@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "Materials for courses you taught. Replace this text with your description.",
@@ -224,17 +217,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2023/tikzjax/";
-          
-        },
-      },{id: "post-a-post-with-bibliography",
-        
-          title: "a post with bibliography",
-        
-        description: "an example of a blog post with bibliography",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/post-bibliography/";
           
         },
       },{id: "post-a-post-with-jupyter-notebook",
