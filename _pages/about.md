@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Software Developer @ OCI
 
 profile:
   align: right
@@ -24,7 +24,7 @@ latest_posts:
 
 
 Hello, I'm Jakub,
-How fortunate of you to have landed here. Careful where you go from here, you can expect this space to be at times very serious or just a little too silly. 
+Thanks for landing here, you can expect this space to be at times very serious or just a little too silly. 
 
 I'm a passionate gamer, I've touched every genre and strive to compete at the hardest difficulty. One minute
 you'll find me assembling tiles in Dorfromantik to relaxing low-fi music, while the next I'll be crunching numbers in
