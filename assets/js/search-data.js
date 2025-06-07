@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "projects-project-1",
+        },{id: "post-introducing-my-game-bubble-factory",
+        
+          title: "Introducing my game Bubble factory",
+        
+        description: "Design of video game centered around bubble production",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/devlog-bubble-1/";
+          
+        },
+      },{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
