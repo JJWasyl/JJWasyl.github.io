@@ -5,6 +5,7 @@ date: 2025-06-07 12:00:00
 description: Design of video game centered around bubble production
 tags: project bubble factory
 categories: game-devlog
+giscus_comments: true
 ---
 
 # Devlog #1 - Introducing My Game: *Bubble Factory*
@@ -53,11 +54,11 @@ I'm going for a low poly, positive vibe. The sinister elements of the game are m
 
 ## Roadmap (rough)
 - [x] GDD Document
-- [] Concept art
-- [] Core mechanics synopsis
-- [] Vertical slice
-- [] Core loop test
-- [] Levels
+- [ ] Concept art
+- [ ] Core mechanics synopsis
+- [ ] Vertical slice
+- [ ] Core loop test
+- [ ] Levels
 
 ---
 
