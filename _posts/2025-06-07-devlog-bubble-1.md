@@ -47,17 +47,26 @@ The game is set in a world with a sudden demand for enjoyment of soapy bubbles f
 ## Art & Mood
 I'm going for a low poly, positive vibe. The sinister elements of the game are meant to be concealed in the levity of the artstyle and are left for the player to pick up on as they play through the game.
 
-<img src=/assets/img/concept_art/bubble_factory/grid_concept.png style="width: 600px; max-width: 100%;">
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/concept_art/grid_concept.png" title="grid concept" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Rough idea of the grid look and the UI
+</div>
 
 ---
 
 ## Roadmap (rough)
 - [x] GDD Document
+- [ ] Core gameplay design
 - [ ] Concept art
-- [ ] Core mechanics synopsis
 - [ ] Vertical slice
 - [ ] Core loop test
 - [ ] Levels
+
+The next step is to figure out the difficulty progression for the game, to have a general list of assets to work with.
 
 ---
 
