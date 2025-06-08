@@ -9,8 +9,6 @@ profile:
   image: funny_portrait.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-
-
     <p>+1 (630) 532 8793</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
