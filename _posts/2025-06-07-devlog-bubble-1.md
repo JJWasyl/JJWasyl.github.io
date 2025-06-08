@@ -47,7 +47,7 @@ The game is set in a world with a sudden demand for enjoyment of soapy bubbles f
 ## Art & Mood
 I'm going for a low poly, positive vibe. The sinister elements of the game are meant to be concealed in the levity of the artstyle and are left for the player to pick up on as they play through the game.
 
-<img src=../assets/img/concept_art/bubble_factory/grid_concept.png style="width: 600px; max-width: 100%;">
+<img src=/assets/img/concept_art/bubble_factory/grid_concept.png style="width: 600px; max-width: 100%;">
 
 ---
 
