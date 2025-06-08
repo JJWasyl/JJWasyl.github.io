@@ -49,7 +49,7 @@ I'm going for a low poly, positive vibe. The sinister elements of the game are m
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/concept_art/grid_concept.png" title="grid concept" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/concept_art/bubble_factory/grid_concept.png" title="grid concept" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -60,9 +60,9 @@ I'm going for a low poly, positive vibe. The sinister elements of the game are m
 
 ## Roadmap (rough)
 - [x] GDD Document
+- [ ] Vertical slice
 - [ ] Core gameplay design
 - [ ] Concept art
-- [ ] Vertical slice
 - [ ] Core loop test
 - [ ] Levels
 
