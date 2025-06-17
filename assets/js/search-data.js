@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-introducing-my-game-bubble-factory",
+        },{id: "post-bubble-factory-vertical-slice",
+        
+          title: "Bubble factory vertical slice",
+        
+        description: "Building vertical slice for the basic game area",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/devlog-bubble-2/";
+          
+        },
+      },{id: "post-introducing-my-game-bubble-factory",
         
           title: "Introducing my game Bubble factory",
         
