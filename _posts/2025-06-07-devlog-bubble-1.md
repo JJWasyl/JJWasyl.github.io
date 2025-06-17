@@ -9,7 +9,7 @@ categories: game-devlog
 
 # Devlog #1 - Introducing My Game: *Bubble Factory*
 
-Hello everyone, I'm starting a devlog for my first full independent game project to practice my skills in game design and developement.
+Hello everyone, I'm starting a devlog for my first full independent game project to practice my skills in game design and development.
 
 ---
 
@@ -49,7 +49,7 @@ I'm going for a low poly, positive vibe. The sinister elements of the game are m
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/concept_art/bubble_factory/grid_concept.png" title="grid concept" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/bubble_factory/concept_art/grid_concept.png" title="grid concept" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
