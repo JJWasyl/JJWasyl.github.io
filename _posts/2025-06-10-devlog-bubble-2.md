@@ -37,10 +37,14 @@ The game will revolve around placing, moving and removing buildings on the grid.
 1. Moving an existing building by clicking it and a destination grid position.
 1. Adding a building "preview" animation for placement (creating and moving).
 1. Coloring grid positions for different building operations.
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/bubble_factory/progress_materials/grid_highlight_problem.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/bubble_factory/progress_materials/building_placement.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/bubble_factory/progress_materials/grid_tracking.gif" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/bubble_factory/progress_materials/building_manipulation.gif" class="img-fluid rounded z-depth-1" zoomable=true %}
