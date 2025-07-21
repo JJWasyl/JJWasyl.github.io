@@ -3,7 +3,7 @@ layout: post
 title: Introducing my game Bubble factory
 date: 2025-06-07 12:00:00
 description: Design of video game centered around bubble production
-tags: project bubble factory
+tags: project bubble-factory
 categories: game-devlog
 ---
 

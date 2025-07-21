@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Bubble factory vertical slice
-date: 2025-06-10 12:00:00
+date: 2025-06-17 12:00:00
 description: Building vertical slice for the basic game area
-tags: project bubble factory slice
+tags: project bubble-factory slice
 categories: game-devlog
 ---
 
 # Devlog #2 - Creating the vertical Slice for Bubble Factory
+---
 
 ## Building the main game grid
 
