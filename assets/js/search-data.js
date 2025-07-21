@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-bubble-factory-vertical-slice",
+        },{id: "post-bubble-factory-vertical-slice-part-2-ui-and-buildings",
+        
+          title: "Bubble factory vertical slice part 2, UI and buildings",
+        
+        description: "Creating a UI for the vertical slice and setting up buildings",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/devlog-bubble-3/";
+          
+        },
+      },{id: "post-bubble-factory-vertical-slice",
         
           title: "Bubble factory vertical slice",
         
@@ -52,12 +63,7 @@ ninja.data = [{
             window.location.href = "/blog/2025/devlog-bubble-1/";
           
         },
-      },{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{
+      },{
         id: 'social-discord',
         title: 'Discord',
         section: 'Socials',
