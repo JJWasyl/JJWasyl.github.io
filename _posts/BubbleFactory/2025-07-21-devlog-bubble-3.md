@@ -7,7 +7,7 @@ tags: project bubble-factory slice UI
 categories: game-devlog
 ---
 
-# Devlog #3 - Setting up simple UI for the vertical slice
+# Devlog #3 - Setting up simple UI for the vertical slice / Wrapup
 
 ## Project refactor, integrating cursor
 
@@ -44,6 +44,7 @@ The project is now slightly bloated with unusable material swap code that needs 
 I've replaced model highlighting with shaders instead. It is the actually preferred method for that sort of action.
 The next step will start with a short refactor of the existing codebase to remove highlighting followed by creating a shader-based solution.
 
+---
 
 ## Further Ideas for next steps
 ### Core level design
@@ -94,3 +95,7 @@ Then we can explore fun puzzle-like buildings in the future:
 - Bubble re-shaper
 - Soap variations for bubble color
 - A wind powered bubble dispenser
+
+
+## Project Wrap-up
+I've decided to stop working on this project in its current state. I've learned a great deal about cell and coordinate management for future ideas. However at this stage I feel like a major refactor would be necessary to cleanup some of my messes.
